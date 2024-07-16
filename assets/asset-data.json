@@ -1,0 +1,33 @@
+[
+  {
+    "Images": {
+      "canvas-background": "./ui/canvas-background.png",
+      "eraser-icon": "./ui/eraser-fill.png",
+      "pencil-icon": "./ui/pencil-fill.png",
+      "timer-icon": "./ui/stopwatch-fill.png",
+      "grid-icon": "./ui/grid-3x3.png",
+      "main-menu-background": "./ui/main-menu-background.png",
+      "gallery-background": "./ui/gallery-background.png"
+    },
+    "Fonts": {
+      "Pixellari": "./fonts/Pixellari.ttf",
+      "Roboto": "./fonts/Roboto-Regular.ttf"
+    },
+    "Music": {
+      "main-menu": "./sounds/main-menu-music.mp3",
+      "game": "./sounds/game-music.mp3"
+    },
+    "SoundEffects": {
+      "clock-ticking": "./sounds/clock-ticking.wav",
+      "game-start": "./sounds/game-start.wav",
+      "times-up": "./sounds/times-up.wav"
+    },
+    "Files": {
+      "gallery-data": "./gallery/gallery-data.json",
+      "highscore-data": "./scores/highscore-data.json",
+      "gallery-images": "./gallery/",
+      "level-images": "./level_images/",
+      "temp-data": "./temp/"
+    }
+  }
+]
